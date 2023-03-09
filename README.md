@@ -1,4 +1,5 @@
-***Привет, меня зовут Михаил.***
+***Hello everybody! My name is Mikhail***
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Python+developer)](https://git.io/typing-svg)
 
 Связаться со мной:
 [Linkedln](https://linkedin.com/in/iurinmikhail)
