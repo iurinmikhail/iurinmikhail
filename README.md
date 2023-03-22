@@ -10,6 +10,8 @@
 - [X] [Поколение python для начинающих от Гуева](https://stepik.org/cert/1585195)
 - [X] [Поколение python для продвинутых от Гуева](https://stepik.org/cert/1627241)
 - [X] [Getting Started with Python University of Michigan](https://www.coursera.org/account/accomplishments/certificate/QV65R2U4XHD5)
+- [X] [Intermediate Python](https://www.sololearn.com/certificates/CT-IPMURTM9)
+- [X] [Introduction SQL](https://www.sololearn.com/certificates/CC-FK6EL8R3)
 
 
 
