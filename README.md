@@ -12,6 +12,7 @@
 - [X] [Getting Started with Python University of Michigan](https://www.coursera.org/account/accomplishments/certificate/QV65R2U4XHD5)
 - [X] [Intermediate Python](https://www.sololearn.com/certificates/CT-IPMURTM9)
 - [X] [Introduction SQL](https://www.sololearn.com/certificates/CC-FK6EL8R3)
+- [X] [Python Data Structures]([https://www.sololearn.com/certificates/CT-U0FYKAYB])
 
 
 
