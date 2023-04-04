@@ -10,13 +10,13 @@
 - [X] [Поколение python для начинающих от Гуева](https://stepik.org/cert/1585195)
 - [X] [Поколение python для продвинутых от Гуева](https://stepik.org/cert/1627241)
 - [X] [Getting Started with Python University of Michigan](https://www.coursera.org/account/accomplishments/certificate/QV65R2U4XHD5)
-- [X] [Intermediate Python](https://www.sololearn.com/certificates/CT-IPMURTM9)
-- [X] [Python Data Structures](https://www.sololearn.com/certificates/CT-U0FYKAYB)
+- [X] [Intermediate Python Sololearn](https://www.sololearn.com/certificates/CT-IPMURTM9)
+- [X] [Python Data Structures Sololearn](https://www.sololearn.com/certificates/CT-U0FYKAYB)
 - [X] [Python HackerRank](https://www.hackerrank.com/certificates/f5fa3084d2fd)
-- [X] [Introduction to Python](https://www.sololearn.com/certificates/CC-DG7RZZND)
+- [X] [Introduction to Python Sololearn](https://www.sololearn.com/certificates/CC-DG7RZZND)
 
 Сертификаты SQL:
-- [X] [Introduction to SQL](https://www.sololearn.com/certificates/CC-FK6EL8R3)
+- [X] [Introduction to SQL Sololearn](https://www.sololearn.com/certificates/CC-FK6EL8R3)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iurinmikhail&theme=dark&background=000000)](https://git.io/streak-stats)
