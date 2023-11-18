@@ -1,3 +1,4 @@
+[![Linkedin Badge](https://img.shields.io/badge/-iurinmikhail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurinmikhail/)](https://www.linkedin.com/in/iurinmikhail/)
 ***Hello everybody! My name is Mikhail.***
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Python+developer)](https://git.io/typing-svg)
