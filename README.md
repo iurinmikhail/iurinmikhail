@@ -8,7 +8,7 @@
 - [X] [Добрый, добрый python от Балакирева](https://stepik.org/cert/1712915)
 - [X] [Поколение python для начинающих от Гуева](https://stepik.org/cert/1585195)
 - [X] [Поколение python для продвинутых от Гуева](https://stepik.org/cert/1627241)
-- [X] [Getting Started with Python University of Michigan](https://www.coursera.org/account/accomplishments/certificate/QV65R2U4XHD5)
+- [X] [Getting Started with Python University of Michigan](https://coursera.org/share/02df8ea00507dc33b545e29e25e627a4)
 - [X] [Intermediate Python Sololearn](https://www.sololearn.com/certificates/CT-IPMURTM9)
 - [X] [Python Data Structures Sololearn](https://www.sololearn.com/certificates/CT-U0FYKAYB)
 - [X] [Python HackerRank](https://www.hackerrank.com/certificates/f5fa3084d2fd)
