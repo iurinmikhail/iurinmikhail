@@ -19,6 +19,10 @@
       
 Сертификаты English:
 - [x] [Learn English: Beginning Grammar](https://coursera.org/share/3fd9885729a99d68ffa67c57dc52f446)
+
+Сертификаты Linux:
+- [x] [Fundamentals of Red Hat Enterprise Linux](https://coursera.org/share/3663b8b376db4c8291a6ff46806a5cb0)
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iurinmikhail&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
