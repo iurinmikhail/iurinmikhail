@@ -30,5 +30,5 @@
 ---
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://leetcode.com/myurin001/)
 
-
+[![wakatime](https://wakatime.com/badge/user/0d7958443-f457-45e7-a2e2-b3c96e04d195.svg)](https://wakatime.com/@0d7958443-f457-45e7-a2e2-b3c96e04d195)
 
