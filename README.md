@@ -15,8 +15,9 @@
 - [X] [Introduction to Python Sololearn](https://www.sololearn.com/certificates/CC-DG7RZZND)
 
 Сертификаты SQL:
-- [X] [Introduction to SQL Sololearn](https://www.sololearn.com/certificates/CC-FK6EL8R3)
-
+- [X] [Introduction to SQL Sololearn](https://www.sololearn.com/certificates/CC-FK6EL8R3) 
+Сертификаты English:
+- [x] [Learn English: Beginning Grammar](https://coursera.org/share/3fd9885729a99d68ffa67c57dc52f446)
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iurinmikhail&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
