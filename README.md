@@ -37,7 +37,8 @@
 ---
 [![codewars](https://www.codewars.com/users/myuri001/badges/large)](https://www.codewars.com/users/myuri001)   
 ---
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://leetcode.com/myurin001/)
+
+[![LeetCode](https://leetcode-stats-six.vercel.app/api?username=myurin001&theme=dark)](https://leetcode.com/myurin001/)
 
 [![wakatime](https://wakatime.com/badge/user/100362ac-d122-4202-8c75-54c366abaaf9.svg)](https://wakatime.com/@100362ac-d122-4202-8c75-54c366abaaf9)
 
