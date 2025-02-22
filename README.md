@@ -1,30 +1,5 @@
-[![Linkedin Badge](https://img.shields.io/badge/-iurinmikhail-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iurinmikhail/)](https://www.linkedin.com/in/iurinmikhail/)\
-***Hello everybody! My name is Mikhail.***
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Python+developer)](https://git.io/typing-svg)
 
-
-Сертификаты Python:
-- [X] [Добрый, добрый python от Балакирева](https://stepik.org/cert/1712915)
-- [X] [Поколение python для начинающих от Гуева](https://stepik.org/cert/1585195)
-- [X] [Поколение python для продвинутых от Гуева](https://stepik.org/cert/1627241)
-- [X] [Getting Started with Python University of Michigan](https://coursera.org/share/02df8ea00507dc33b545e29e25e627a4)
-- [X] [Intermediate Python Sololearn](https://www.sololearn.com/certificates/CT-IPMURTM9)
-- [X] [Python Data Structures Sololearn](https://www.sololearn.com/certificates/CT-U0FYKAYB)
-- [X] [Python HackerRank](https://www.hackerrank.com/certificates/f5fa3084d2fd)
-- [X] [Introduction to Python Sololearn](https://www.sololearn.com/certificates/CC-DG7RZZND)
-
-Сертификаты SQL:
-- [X] [Introduction to SQL Sololearn](https://www.sololearn.com/certificates/CC-FK6EL8R3)
-      
-Сертификаты English:
-- [x] [Learn English: Beginning Grammar](https://coursera.org/share/3fd9885729a99d68ffa67c57dc52f446)
-- [x] [Word Forms and Simple Present Tense](https://coursera.org/share/3ab1cbeec6c1d69bd1ea4d6df3fddb38)
-- [x] [Simple Past Tense](https://coursera.org/share/2864e47e80f0a94af828ae7b20b5db2a)
-- [x] [Questions, Present Progressive and Future Tenses](https://coursera.org/share/591262c5cfed4aecb06fc71b48d4db5a)
-
-Сертификаты Linux:
-- [x] [Fundamentals of Red Hat Enterprise Linux](https://coursera.org/share/3663b8b376db4c8291a6ff46806a5cb0)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iurinmikhail&theme=dark&background=000000)](https://git.io/streak-stats)
